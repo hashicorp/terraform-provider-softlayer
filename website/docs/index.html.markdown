@@ -12,9 +12,9 @@ The SoftLayer provider is used to manage SoftLayer resources.
 
 Use the navigation to the left to read about the available resources.
 
--> **Note:** The SoftLayer provider is new as of Terraform 0.6.16.
-It is ready to be used but many features are still being added. If there
-is a SoftLayer feature missing, please report it in the GitHub repo.
+-> **Note:** The SoftLayer provider is no longer maintained. We are not accepting any new feature requests for this provider.
+ Please use [IBM Cloud provider](https://github.com/IBM-Bluemix/terraform-provider-ibm) instead. It has all the features
+that SoftLayer provider supports at this point and much more.
 
 ## Example Usage
 
