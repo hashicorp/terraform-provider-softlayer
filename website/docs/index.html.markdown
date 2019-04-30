@@ -8,6 +8,8 @@ description: |-
 
 # SoftLayer Provider
 
+~> **This provider is deprecated,** and the service it interacts with has been discontinued.
+
 The SoftLayer provider is used to manage SoftLayer resources.
 
 Use the navigation to the left to read about the available resources.
